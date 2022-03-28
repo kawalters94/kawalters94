@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyle Walters @kwaltersdev
 
-- My primary interest is front-end web development. I am experienced in React.js, Next.js, JavaScript, TypeScript, Material-ui (mui), Firebase Firestore (web sdk) and Firebase Auth. PWAs (Progressive Web Applications) excite me, and I am currently working on a social fitness challenge PWA in my free time.
+- My primary interest is front-end web development. I am experienced in React.js, Next.js, JavaScript, TypeScript, Material-UI (mui), Firebase Firestore (web sdk) and Firebase Auth. PWAs (Progressive Web Applications) excite me, and I am currently working on a social fitness challenge PWA in my free time.
 
 - I also have some experience with back-end development, primarily with the following technologies: Node.js, Express.js, MongoDb and MySQL.
 
